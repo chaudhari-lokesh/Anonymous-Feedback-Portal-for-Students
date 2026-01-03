@@ -70,11 +70,3 @@ Check `index.js` for the exact routes and middleware.
 ## Notes
 - The `uploads/` folder is present for storing uploaded files; ensure it exists and is writable.
 - Keep secrets out of source control; add `.env` to `.gitignore` (already present).
-
-## Contributing
-- Make a branch, add tests where appropriate, and open a PR.
-
-## License
-- Add a license file or choose a license (MIT is commonly used).
-
-If you want, I can also create a README for the `feedback portal/` frontend or update the root README. Let me know which you'd prefer next.
