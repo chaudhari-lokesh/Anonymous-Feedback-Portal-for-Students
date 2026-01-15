@@ -1,7 +1,7 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "cd 'feedback portal' && npm run build",
   "outputDirectory": "feedback portal/dist",
-  "installCommand": "npm install",
+  "installCommand": "cd 'feedback portal' && npm install",
   "env": {
     "NODE_ENV": "production"
   },
